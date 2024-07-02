@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @awixson96
-- 👀 I’m interested in Human-Computer Interaction
-- 🌱 I’m currently learning Web Client Languages and Interaction Design.
-- 💞️ I’m looking to collaborate on any projects assigned in the courses previously mentioned 😊
+- 👀 I’m interested in Design and Interaction
 - 📫 How to reach me Discord: Wixsie96#2074 or email: awixson@ucsd.edu
 
 <!---
